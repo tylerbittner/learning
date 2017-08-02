@@ -1,0 +1,60 @@
+""" Pseudocode for backtracking procedure
+
+In order to apply backtracking to a specific class of problems, one must provide the data P for the particular
+instance of the problem that is to be solved, and six procedural parameters, root, reject, accept, first, next,
+and output. These procedures should take the instance data P as a parameter and should do the following:
+
+1. root(P): return the partial candidate at the root of the search tree.
+2. reject(P,c): return true only if the partial candidate c is not worth completing.
+3. accept(P,c): return true if c is a solution of P, and false otherwise.
+4. first(P,c): generate the first extension of candidate c.
+5. next(P,s): generate the next alternative extension of a candidate, after the extension s.
+6. output(P,c): use the solution c of P, as appropriate to the application.
+
+The backtracking algorithm reduces the problem to the call bt(root(P)), where bt is the following recursive procedure:
+
+procedure bt(c)
+  if reject(P,c) then return
+  if accept(P,c) then output(P,c)
+  s ← first(P,c)
+  while s ≠ Λ do
+    bt(s)
+    s ← next(P,s)
+"""
+
+
+
+Naive TSP Solution: (from http://www.geeksforgeeks.org/travelling-salesman-problem-set-1/)
+1) Consider city 1 as the starting and ending point.
+2) Generate all (n-1)! Permutations of cities.
+3) Calculate cost of every permutation and keep track of minimum cost permutation.
+4) Return the permutation with minimum cost.
+
+
+#  TSP pseudocode from wiki:
+    #
+    # function algorithm TSP (G, n)
+    # for j = 0 to n:
+    #     C({0, j}, j) = d(0j)
+    #
+    # for s = 3 to n:
+    #     for all subsets S ⊆ {0, 0, . . . , n}, |S| = s:
+    #         for all j ∈ S:
+    #             C(S, j) = min{ C(S − {j}, i) + d(ij) : i ∈ S, i ≠ 0, i ≠ j }
+    #
+    # return min(j≠0) [C({0, 3, . . . , n}, j) + d(j0)]
+
+
+# TSP pseudocode from book:
+    #
+    # C({0}, 0) = 0
+    # for s = 1 to n:
+    #     for all subsets S ⊆ {0, 1, ..., n} of size s and *containing 0*:  <-- Must iterate thru all combos of subsets here!
+    #         C(S, 0) = ∞
+    #         for all j ∈ S, j ≠ 0:
+    #             C(S, j) = min{ C(S − {j}, i) + d(ij): i ∈ S, i ≠ j}
+    # return min(j) C({0, ..., n}, j) + d(j0)
+    #
+    # DIFFS:
+    #     - Our matrix is ZERO-BASED
+    #     - Account for ending at bulkhead node instead of back at the start.

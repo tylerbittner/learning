@@ -1,0 +1,1 @@
+I have NOT included the problem statements (as amusing as they are) so I don’t give away too much to those who haven’t seen them yet!  This foobar thing is supposed to be secret after all.
