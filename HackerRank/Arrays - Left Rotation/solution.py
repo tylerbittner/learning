@@ -1,3 +1,6 @@
+# Problem statement: https://www.hackerrank.com/challenges/ctci-array-left-rotation
+
+
 def array_left_rotation(a, n, k):
     # a - array of integers to rotate
     # n - the number of integers in array

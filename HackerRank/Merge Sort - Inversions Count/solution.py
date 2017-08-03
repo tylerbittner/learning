@@ -1,3 +1,6 @@
+# Problem statement: https://www.hackerrank.com/challenges/ctci-merge-sort
+
+
 def count_inversions(array):
     global inversions
     inversions = 0

@@ -1,3 +1,6 @@
+# Problem statement: https://www.hackerrank.com/challenges/ctci-ice-cream-parlor
+
+
 def ice_cream_parlor(m, a):
     '''Does given challenge'''
 

@@ -1,3 +1,6 @@
+# Problem statement: https://www.hackerrank.com/challenges/ctci-comparator-sorting
+
+
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 class Player:
     def __init__(self, name, score):

@@ -1,3 +1,6 @@
+# Problem statement: https://www.hackerrank.com/challenges/ctci-ransom-note
+
+
 def ransom_note(magazine, ransom):
     # Create dict of magazine word counts
     d_mag = {}

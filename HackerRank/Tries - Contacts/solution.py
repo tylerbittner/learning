@@ -1,3 +1,6 @@
+# Problem statement: https://www.hackerrank.com/challenges/ctci-contacts
+
+
 # import pprint
 
 # Use a dict of dicts to represent our trie nodes. 

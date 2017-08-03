@@ -1,3 +1,6 @@
+# Problem statement: https://www.hackerrank.com/challenges/ctci-lonely-integer
+
+
 def lonely_integer(a):
     result = 0
     for number in a:

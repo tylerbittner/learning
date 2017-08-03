@@ -1,3 +1,6 @@
+# Problem statement: https://www.hackerrank.com/challenges/ctci-making-anagrams
+
+
 def number_needed(a, b):
     ''' Bruteforce plan:
     - Store strings as dicts w/ letter as key & # of occurrences as value
