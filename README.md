@@ -1,2 +1,2 @@
 # learning Repository
-Tyler's Learning Projects: Coding exercises &amp; algorithm challenges
+Tyler's Learning Projects: Tech demos, coding exercises, and algorithm challenges
