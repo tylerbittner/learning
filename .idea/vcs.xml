@@ -2,5 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BitRate Hackathon 2020/musicautobot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Book - Hands-On Machine Learning/handson-ml" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UnityML-Agents/ml-agents" vcs="Git" />
   </component>
 </project>
