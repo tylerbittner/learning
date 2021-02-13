@@ -14,4 +14,5 @@ This section is to share the projects and courses I've enjoyed and track the kno
 
 ## Certifications
 
-(Inspired by [FisherKK](https://github.com/FisherKK/F1sherKK-MyRoadToAI))
+
+(Format inspired by [FisherKK](https://github.com/FisherKK/F1sherKK-MyRoadToAI))
