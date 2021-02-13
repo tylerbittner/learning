@@ -1,8 +1,17 @@
-# learning Repository
-Tyler's Learning Projects: Tech demos, coding exercises, and algorithm challenges
+# Learning Repository
+My learning projects: course work, demos, and algo coding exercises
 
-# My Path to Machine Learning Mastery
+# My Journey into Machine Learning
+This section is to share the projects and courses I've enjoyed and track the knowlege I've gained in my journey toward machine learning & data science.
+
+## Small Projects
+
+## Courses
+
+## Kaggle Contests
+
+## Programming Showcase
+
+## Certifications
+
 (Inspired by [FisherKK](https://github.com/FisherKK/F1sherKK-MyRoadToAI))
-This section is to track and share the content I've leveraged and enjoyed along my path to honing my craft in machine learning & data science.
-
-
