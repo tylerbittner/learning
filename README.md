@@ -50,8 +50,8 @@ Brief history: I did full stack software engineering for over 13 years using Per
 - ...
 
 ## Book Notes & Exercises
-- [Python Cookbook](Book:%20Python%20Cookbook)
-- [Fluent Python](Book:%20Fluent%20Python)
+- [Python Cookbook](./Book:%20Python%20Cookbook)
+- [Fluent Python](./Book:%20Fluent%20Python)
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/tylerbittner/)
