@@ -42,7 +42,7 @@ Brief history: I did full stack software engineering for over 13 years using Per
 ## Programming Showcase
 - Algorithm exercises in Python
   - [HackerRank](HackerRank)
-  - [Google Foobar](learning/Google Foobar/): "Secret" Google algorithm challenges which funneled into their recruiting channel.
+  - [Google Foobar](./Google%20Foobar/): "Secret" Google algorithm challenges which funneled into their recruiting channel.
   - Outco...
 
 ## Small Projects & Workshops
