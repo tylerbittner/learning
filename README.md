@@ -1,6 +1,6 @@
 # My Journey to Machine Learning Engineering
 
-# About
+## About
 \[TODO: Link to this as "Featured" in my LinkedIn]
 
 This repository is to track knowlege I've gained and share projects/courses I've taken through my journey to upgrade my engineering skills and master machine learning & data science.  It includes links to my Juypter Notebooks for course work, code from tutorials & workshops, book notes, and lots of algorithm coding exercises.
@@ -15,8 +15,6 @@ Brief history: I did full stack software engineering for over 13 years using Per
 4. [Small Projects & Workshops](#small-projects--workshops)
 5. [Book Notes & Exercises](#book-notes--exercises)
 6. [Contact](#contact)
-
-***
 
 ## Courses & Certificates
 - AWS Data Analytics Specialty - Hands On Course - Udemy (Feb 2021)
