@@ -1,4 +1,4 @@
-# My Journey to Machine Learning Engineering
+# My Journey into Machine Learning
 
 ## About
 This repository is to track knowlege I've gained and share projects/courses I've taken through my journey to upgrade my engineering skills and master machine learning & data science.  It includes links to my Juypter Notebooks for course work, code from tutorials & workshops, book notes, and lots of algorithm coding exercises.
