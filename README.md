@@ -1,4 +1,4 @@
-# Machine Learning Portfolio
+# Machine Learning Portfolio [IN PROGRESS]
 
 ## About
 This is my portfolio to track knowlege I've gained and share the work I've done through projects and courses I've taken in my journey to upgrade my engineering skills and master machine learning.  It includes links to my Juypter Notebooks, code from tutorials & workshops, book notes, and lots of algorithm coding exercises.
@@ -20,11 +20,12 @@ Brief history: I did full stack software engineering for over 13 years using Per
   - Elements of DS - Part 3 - Preprocessing & Feature Eng
   - Elements of DS - Part 4 - Model Training, Tuning, and Debugging
   - Elements of DS - Part 5 - Model Eval & Productionization
-
-- [Python Cookbook notes])(https://github.com/tylerbittner/learning/tree/master/Book:%20Python%20Cookbook)
+- [Python Cookbook notes](https://github.com/tylerbittner/learning/tree/master/Book:%20Python%20Cookbook)
+- [Kaggle Zillow competition/mini project - Notebook](https://github.com/tylerbittner/bizzestimate/blob/master/Bizzestimate%20Analysis%20%26%20Predictions%20-%20Round%201.ipynb)
+  - TODO: Add narrative, organize, and add summary
 - [GBM workshop: project, GBM algo, XGBoost](https://github.com/tylerbittner/learning/tree/master/GBM_workshop)
   - TODO: Summarize results/purpose
-  - [NOT WORTHY - Kaggle Titanic tutorial: project](https://github.com/tylerbittner/learning/tree/master/Kaggle%20Titanic%20Tutorial)
+- [NOT WORTHY - Kaggle Titanic tutorial: project](https://github.com/tylerbittner/learning/tree/master/Kaggle%20Titanic%20Tutorial)
 - Data Science boot camp:
   - Week 2: [Statistics and Probability](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-2)
     - [Course Notes](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-2/Notes%20-%20Week%202%20-%20Statistics%20and%20Probability.ipynb)
@@ -51,9 +52,11 @@ Brief history: I did full stack software engineering for over 13 years using Per
     - TODO: Complete this :)
   - Week 12: [Time Series, NLP, and Network Analysis](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-12)
     - TODO: Time Series and NLP courses
+- [Interview Kickstart code](https://github.com/tylerbittner/interviewkickstart) 
+  - TODO: Add to readme
 
 ## Machine Learning & Data Science
-* Put items within table including: title, description, data set, techs & algos used
+*(Put items within table including: title, description, data set, techs & algos used)*
 
 ### End-to-end mini-projects
 - Supervised learning
