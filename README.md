@@ -25,35 +25,45 @@ Brief history: I did full stack software engineering for over 13 years using Per
   - TODO: Add narrative, organize, and add summary
 - [GBM workshop: project, GBM algo, XGBoost](https://github.com/tylerbittner/learning/tree/master/GBM_workshop)
   - TODO: Summarize results/purpose
-- [NOT WORTHY - Kaggle Titanic tutorial: project](https://github.com/tylerbittner/learning/tree/master/Kaggle%20Titanic%20Tutorial)
-- Data Science boot camp:
+<!-- - [NOT WORTHY - Kaggle Titanic tutorial: project]&#40;https://github.com/tylerbittner/learning/tree/master/Kaggle%20Titanic%20Tutorial&#41;) 
+-->
+
+### Data Science boot camp:
   - Week 2: [Statistics and Probability](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-2)
-    - [Course Notes](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-2/Notes%20-%20Week%202%20-%20Statistics%20and%20Probability.ipynb)
+    - [Course notes](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-2/Notes%20-%20Week%202%20-%20Statistics%20and%20Probability.ipynb)
   - Week 4: [Python for Data Science (importing, cleaning, manipulating data with pandas)](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-4)
     - TODO: Add readme with course link
-    - [Course Notes](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-4/Notes%20-%20Week%204%20-%20Intro%20to%20Python%20for%20Data%20Science%20(DataCamp.com).ipynb)
+    - [Course notes](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-4/Notes%20-%20Week%204%20-%20Intro%20to%20Python%20for%20Data%20Science%20(DataCamp.com).ipynb)
     - [Notebook: Preparing Data for EDA](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-4/Preparing%20Data%20for%20Exploratory%20Data%20Analysis.ipynb)
         - Data set used: catalog of the Human Microbiome Project
-        - TODO: Move undone sections at end to "Future/additional"
+        - TODO: Elaborate on Summary
   - Week 5: [Data Visualization](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-5)
     - TODO: add readme
-    - [Course Notes](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-5/Notes%20-%20Week%205%20-%20Data%20Visualization.ipynb)
+    - [Course notes](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-5/Notes%20-%20Week%205%20-%20Data%20Visualization.ipynb)
     - [Exercise Part 1 - EDA and Data Cleaning](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-5/Exercise%20Part%201%20-%20EDA%20and%20Data%20Cleaning.ipynb)
       - Data Set: HCCI’s 2016 Health Care Cost and Utilization Report
       - TODO: Summarize more; what I did in the notebook
     - [Exercise Part 2 - Data Visualizations](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-5/Exercise%20Part%202%20-%20Data%20Visualizations.ipynb)
       - Data set: Same as part I
   - Week 6: [Statistical Thinking in Python](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-6) 
-  - Week 7: [Unsupervised Learning and PCA](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-7)
-  - Week 8: [Supervised Learning](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-8)
-  - Week 9: [Unsupervised Learning](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-9)
-  - Week 10: [Deep Learning](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-10)
-  - Week 11: Advanced Deep Learning
-    - TODO: Complete this :)
-  - Week 12: [Time Series, NLP, and Network Analysis](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-12)
-    - TODO: Time Series and NLP courses
+      - [Course notes](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-6/Notes%20-%20Week%206%20-%20Statistical%20Thinking%20in%20Python.ipynb)
+  - Week 7: [Advanced SQL](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-7)
+      - [Course notes](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-7/Notes%20-%20Week%207%20-%20Advanced%20SQL.ipynb)
+  - Week 8: [Supervised Learning with Scikit-Learn](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-8)
+      - [Course notes](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-8/Notes%20-%20Week%208%20-%20Supervised%20Learning.ipynb)
+  - Week 9: [Unsupervised Learning and Dimension Reduction](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-9)
+      - [Course notes](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-9/Notes%20-%20Week%209%20-%20Unsupervised%20Learning.ipynb)
+  - Week 10: [Deep Learning in Python](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-10)
+      - [Course notes](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-10/Notes%20-%20Week%2010%20-%20Deep%20Learning.ipynb)
+  <!-- - Week 11: Advanced Deep Learning
+    - TODO: Complete this :) -->
+  - Week 12: [Network Analysis](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-12)
+    - [Course notes](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-12/Week%2012%20-%20Time%20Series%2C%20NLP%2C%20and%20Network%20Analysis.ipynb)
+<!--     - TODO: Time Series and NLP courses  -->
+
+### Coding:
 - [Interview Kickstart code](https://github.com/tylerbittner/interviewkickstart) 
-  - TODO: Add to readme
+    - TODO: Add to readme
 
 ## Machine Learning & Data Science
 *(Put items within table including: title, description, data set, techs & algos used)*
