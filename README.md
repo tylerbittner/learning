@@ -8,10 +8,10 @@ Brief career tour: I did full stack and data-centric software engineering for ov
 
 # Table of Contents
 1. [About](#about)
-1. [Data Engineering: Preparation & Cleaning](#Data-Engineering:-Preparation--Cleaning)
+1. [Data Engineering: Preparation & Cleaning](#data-engineering-preparation--cleaning)
 1. [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 1. [Data Visualization](#Data-Visualization)
-1. [Machine Learning: Modeling & Algorithms](#Machine-Learning:-Modeling--Algorithms)
+1. [Machine Learning: Modeling & Algorithms](#machine-learning-modeling--algorithms)
 1. [Statistics and Probability](#Statistics-and-Probability)
 1. [Contact](#contact)
 
