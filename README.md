@@ -23,12 +23,13 @@ Brief career tour: I did full stack software engineering for over 13 years using
   - Data set: [Human Microbiome Project's catalog of microbes](https://www.kaggle.com/bbhatt001/human-microbiome-project)
   - Technologies used: pandas, matplotlib, seaborn       
   <!-- - TODO: Elaborate on Summary -->
+  
+## Exploratory Data Analysis
 - [Cleaning and exploration of HCCI’s 2016 Health Care Cost and Utilization Report](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-5/Exercise%20Part%201%20-%20EDA%20and%20Data%20Cleaning.ipynb)
   - Data Set: [HCCI’s 2016 Health Care Cost and Utilization Report](https://www.healthcostinstitute.org/data)
   <!-- - TODO: Summarize more; what I did in the notebook -->
-  
-## Exploratory Data Analysis
-- [AWS Machine Learning Specialty Path: Elements of Data Science Part 2 - EDA.ipynb](./AWS%20Machine%20Learning%20Specialty%20Path/Elements%20of%20DS%20-%20Part%202%20-%20EDA.ipynb)
+- [Course notes: Elements of Data Science Part 2 - EDA](./AWS%20Machine%20Learning%20Specialty%20Path/Elements%20of%20DS%20-%20Part%202%20-%20EDA.ipynb)
+<!-- Add rest of courses here? -->
 
 ## Data Visualization
 - [Visualizations of prescription drug spending & costs](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-5/Exercise%20Part%202%20-%20Data%20Visualizations.ipynb)
