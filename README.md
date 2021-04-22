@@ -27,38 +27,14 @@ Brief history: I did full stack software engineering for over 13 years using Per
   - TODO: Summarize results/purpose
 <!-- - [NOT WORTHY - Kaggle Titanic tutorial: project]&#40;https://github.com/tylerbittner/learning/tree/master/Kaggle%20Titanic%20Tutorial&#41;) 
 -->
+- Machine Learning - Coursera (Nov 2016)
+
 
 ### Data Science boot camp:
-  - Week 2: [Statistics and Probability](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-2)
-    - [Course notes](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-2/Notes%20-%20Week%202%20-%20Statistics%20and%20Probability.ipynb)
-  - Week 4: [Python for Data Science (importing, cleaning, manipulating data with pandas)](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-4)
-    - TODO: Add readme with course link
-    - [Course notes](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-4/Notes%20-%20Week%204%20-%20Intro%20to%20Python%20for%20Data%20Science%20(DataCamp.com).ipynb)
-    - [Notebook: Preparing Data for EDA](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-4/Preparing%20Data%20for%20Exploratory%20Data%20Analysis.ipynb)
-        - Data set used: catalog of the Human Microbiome Project
-        - TODO: Elaborate on Summary
-  - Week 5: [Data Visualization](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-5)
-    - TODO: add readme
-    - [Course notes](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-5/Notes%20-%20Week%205%20-%20Data%20Visualization.ipynb)
-    - [Exercise Part 1 - EDA and Data Cleaning](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-5/Exercise%20Part%201%20-%20EDA%20and%20Data%20Cleaning.ipynb)
-      - Data Set: HCCI’s 2016 Health Care Cost and Utilization Report
-      - TODO: Summarize more; what I did in the notebook
-    - [Exercise Part 2 - Data Visualizations](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-5/Exercise%20Part%202%20-%20Data%20Visualizations.ipynb)
-      - Data set: Same as part I
-  - Week 6: [Statistical Thinking in Python](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-6) 
-      - [Course notes](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-6/Notes%20-%20Week%206%20-%20Statistical%20Thinking%20in%20Python.ipynb)
-  - Week 7: [Advanced SQL](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-7)
-      - [Course notes](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-7/Notes%20-%20Week%207%20-%20Advanced%20SQL.ipynb)
-  - Week 8: [Supervised Learning with Scikit-Learn](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-8)
-      - [Course notes](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-8/Notes%20-%20Week%208%20-%20Supervised%20Learning.ipynb)
-  - Week 9: [Unsupervised Learning and Dimension Reduction](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-9)
-      - [Course notes](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-9/Notes%20-%20Week%209%20-%20Unsupervised%20Learning.ipynb)
-  - Week 10: [Deep Learning in Python](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-10)
-      - [Course notes](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-10/Notes%20-%20Week%2010%20-%20Deep%20Learning.ipynb)
-  <!-- - Week 11: Advanced Deep Learning
-    - TODO: Complete this :) -->
-  - Week 12: [Network Analysis](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-12)
-    - [Course notes](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-12/Week%2012%20-%20Time%20Series%2C%20NLP%2C%20and%20Network%20Analysis.ipynb)
+- Week 5: [Data Visualization](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-5)
+  - TODO: add readme
+- Week 12: [Network Analysis](https://github.com/tylerbittner/datascience-bootcamp/tree/master/week-12)
+
 <!--     - TODO: Time Series and NLP courses  -->
 
 ### Coding:
@@ -68,62 +44,67 @@ Brief history: I did full stack software engineering for over 13 years using Per
 ## Machine Learning & Data Science
 *(Put items within table including: title, description, data set, techs & algos used)*
 
-### End-to-end mini-projects
-- Supervised learning
-- Unsupervised learning
-- Deep learning
-- ...
 ### Data Preparation
-- (with pandas)
-- ...
+- [Notebook: Preparing Data for EDA](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-4/Preparing%20Data%20for%20Exploratory%20Data%20Analysis.ipynb)
+  - Data set: [Human Microbiome Project's catalog of microbes](https://www.kaggle.com/bbhatt001/human-microbiome-project)
+  - Technologies used: pandas          
+  - TODO: Elaborate on Summary
+- [Exercise Part 1 - EDA and Data Cleaning](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-5/Exercise%20Part%201%20-%20EDA%20and%20Data%20Cleaning.ipynb)
+  - Data Set: HCCI’s 2016 Health Care Cost and Utilization Report
+  - TODO: Summarize more; what I did in the notebook
+  
 ### Exploratory Data Analysis
 - [AWS Machine Learning Specialty Path: Elements of Data Science Part 2 - EDA.ipynb](./AWS%20Machine%20Learning%20Specialty%20Path/Elements%20of%20DS%20-%20Part%202%20-%20EDA.ipynb)
 - ...
 ### Visualization
+- [Exercise Part 2 - Data Visualizations](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-5/Exercise%20Part%202%20-%20Data%20Visualizations.ipynb)
+  - Data Set: HCCI’s 2016 Health Care Cost and Utilization Report
+  - TODO: Technologies used:
 - matplotlib
 - seaborn
 - Bokeh
+
 ### Modeling and Algorithms
 - Linear Regression
 - KNN...
 - Neural Networks...
 - Natural language processing (NLP)
 - ...
+
+<!--
 ### Deployment
 - ...
+-->
+
+### Statistics and Probability
+- ["Statistics and Probability" course notes (Khan Academy)](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-2/Notes%20-%20Week%202%20-%20Statistics%20and%20Probability.ipynb)
+- ["Statistical Thinking in Python" course notes (Datacamp)](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-6/Notes%20-%20Week%206%20-%20Statistical%20Thinking%20in%20Python.ipynb)
 
 ### Technologies
 - Scikit-learn and pandas
 - Spark
 
-
-## Software Engineering
-- Algorithm exercises in Python
-  - [HackerRank...] local code repo and profile
-    - (TODO: Add readme)
-  - [Leetcode profile...]
-  - [Google Foobar](./Google%20Foobar/): "Secret" Google algorithm challenges which funneled into their recruiting channel.
-  - Outco...?
-    - TODO: make homeworks etc. public
-
-## Small Projects & Workshops
+### Mini-projects and Workshops
+- Supervised learning
+- Unsupervised learning
+- Deep learning
 - [Gradient Boosting Machines demo with XGBoost](GBM_workshop/readme.md) (Feb 2020)
-- ...
+
+
+#Software Engineering
 
 ## Book Notes & Exercises
 - [Python Cookbook](./Book:%20Python%20Cookbook)
 - [Fluent Python](./Book:%20Fluent%20Python)
 
-## Courses & Certificates
-- AWS Data Analytics Specialty - Hands On Course - Udemy (Feb 2021)
-- AWS ML courses...
-  - ...
-  - ...
-- AWS Certified Cloud Practitioner - Amazon Web Services (AWS) (Jul 2020)
-- Getting Started with Apache Spark SQL - Databricks (Mar 2020)
-- Data Scientist with Python Track - DataCamp (May 2019)
-- Data Science boot camp...
-- Machine Learning - Coursera (Nov 2016)
+## Algorithm Coding
+- [Google Foobar challenges](./Google%20Foobar/): A set of "secret" Google algorithm challenges which funneled into their recruiting channel if successfully solved. I solved them. :)
+- [Leetcode profile](https://leetcode.com/tylerbittner/)
+- [HackerRank profile](https://www.hackerrank.com/tylerbittner)   <!--  - (TODO: Add readme) -->
+<!--
+- Outco
+    - TODO: make homeworks etc. public
+-->
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/tylerbittner/)
