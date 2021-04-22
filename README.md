@@ -4,7 +4,7 @@
 # About
 The purpose of this portfolio is to track what I've learned and share the work I've done through projects and courses I've taken in my journey to upgrade my engineering and machine learning skills.  It includes links to Juypter Notebooks, code from tutorials & workshops, book notes, and algorithm coding exercises.
 
-Brief career tour: I did full stack and data-centric software engineering for over 13 years using Perl, Java, Javascript, and C#, then at the senior level shifted focus into team leadership and project management for several years, then decided to shift back to what I love the most: building great software.  At that point Python became my clear language of choice and the journey into machine learning began!
+Brief career tour: I did full stack and data-centric software engineering for over 13 years using Perl, Java, Javascript, and C#, then at the senior level shifted focus into team leadership and project management for several years, then decided to shift back to being closer to what I love the most: building great software!  At that point Python became my clear language of choice and the journey into machine learning began.
 
 # Table of Contents
 1. [About](#about)
