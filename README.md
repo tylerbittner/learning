@@ -63,7 +63,7 @@ Brief history: I did full stack software engineering for over 13 years using Per
 
 ### Coding:
 - [Interview Kickstart code](https://github.com/tylerbittner/interviewkickstart) 
-    - TODO: Add to readme
+  - TODO: Add to readme
 
 ## Machine Learning & Data Science
 *(Put items within table including: title, description, data set, techs & algos used)*
