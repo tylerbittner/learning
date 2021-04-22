@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/BitRate Hackathon 2020/musicautobot" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Book - Hands-On Machine Learning/handson-ml" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Outco/outco-class-90" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/UnityML-Agents/ml-agents" vcs="Git" />
   </component>
 </project>
