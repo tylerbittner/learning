@@ -76,10 +76,10 @@ def parse_line(line: str):
     return None
 
 
-def analyze_logs(example_logs):
+def analyze_logs(logs: list):
     request_times = defaultdict(list)
 
-    for line in example_logs:
+    for line in logs:
         parsed = parse_line(line)
         # Ensure successful parsing
         if parsed:
