@@ -89,6 +89,7 @@ def lca(root, member1, member2):
 Time: O(V)
 Space: O(V)
 
+
 ==============
 === GRAPHS ===
 Properties:
@@ -103,7 +104,7 @@ Properties:
 Question: if 'D' is in graph['A'], return True, else False.  In O(1) time.
 KEY: Use *visited* set!
 
-def bfs(root, search):      # Includes parents dict for path tracking etc.
+def bfs_path(root, search):      # Includes parents dict for path tracking etc.
     queue = [root]
     visited = {}
     parents = {root: None}

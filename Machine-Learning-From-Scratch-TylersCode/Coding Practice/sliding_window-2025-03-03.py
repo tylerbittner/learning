@@ -4,12 +4,14 @@ Sliding Window
 
 CLASS NOTES: https://docs.google.com/document/d/1Yt8GKSLhNioomd7l8VSqbduAxj-B4xci5F2CjzodtYE/edit?usp=sharing
 
-What is the SW technique?
+What is the Sliding Window technique?
 - Optimization technique used to reduce time complexity of problems involving
     lists/arrays/strings by avoiding unnecessary computation
 - Often O(n) runtime
 - Unoptimized versions of problems are usually O(n^2)
-- Two kinds of windows: fixed & variable size
+- Two kinds of windows:
+    1. fixed size (we only need one pointer in this case)
+    2. variable size (need left & right)
 
 How does it work?
 1. Init window using left/right pointers
